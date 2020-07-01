@@ -1,7 +1,7 @@
 # Online-food-ordering-system #Cravin' for Calories
 A Database Management project hope this is helpful.
 Technology:
-WAMP server
+WAMP server and
 Languages:
 HTML, CSS, php, MySQL.
 
