@@ -1,0 +1,49 @@
+body{
+
+  width: 100%;
+  background: url(last1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  box-sizing: border-box;
+  font-family: cursive;
+  scroll-behavior: smooth;
+  color: white;
+}
+
+.del{
+position: relative;
+left: 535px;
+border-radius: 30px;
+opacity: 1;
+}
+.thanks{
+text-align: center;
+opacity: 1;
+}
+
+ul{
+  bottom: 20px;
+  display: inline-flex;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  position: relative;
+  left: 1100px;
+}
+ul li {
+  cursor: pointer;
+  float: left;
+  border-radius: 30px;
+  width: 300px;
+  height: 40px;
+  background-color:#add8e6 ;
+  border: 10px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  font: white;
+}

@@ -1,0 +1,61 @@
+.fooditems{
+background-image: url(imghome2.jpg);
+width: 420px;
+height:350px;
+padding:10px;
+float: left;
+margin: 20px 100px 100px 20px;
+border: 2px solid #ffffff;
+font-family: cursive;
+color: black;
+}
+.img-responsive{
+  width: 290px;
+  height: 250px;
+}
+
+  body{
+    height: 100%;
+    width: 100%;
+  background-color: black;
+    background-size: cover;
+    position: absolute;
+    box-sizing: border-box;
+    font-family: cursive;
+    scroll-behavior: smooth;
+
+}
+.text{
+color:white;
+font-weight: bold;
+}
+ul{
+  display: inline-flex;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  position: absolute;
+}
+ul li {
+  float: left;
+  border-radius: 30px;
+  width: 250px;
+  height: 40px;
+  right: 30px;
+  background-color:white ;
+  border: 10px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 20px;
+}
+ul li:hover{
+  background-color:#ff6347  ;
+}
+.active1 ,menubar ul li :hover{
+  background: linear-gradient(to right,#add8e6,#a4dded);
+  border-radius: 30px;
+}
+.menubar ul li a{
+  text-decoration: none;
+  color: black;}

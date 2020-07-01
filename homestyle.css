@@ -1,0 +1,130 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body{
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  box-sizing: border-box;
+  font-family: cursive;
+  scroll-behavior: smooth;
+background-color: black;
+}
+ul{
+  display: inline-flex;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  position: relative;
+}
+ul li {
+  float: left;
+  border-radius: 30px;
+  width: 300px;
+  height: 40px;
+  background-color:grey ;
+  border: 10px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+}
+ul li:hover{
+  background-color:#ff6347 ;
+}
+.active ,menubar ul li :hover{
+  background: linear-gradient(to right,#add8e6,#a4dded);
+  border-radius: 30px;
+}
+.menubar ul li a{
+  text-decoration: none;
+  color: black;
+}
+#homearea{
+  height: 1000px;
+}
+.homeitems1{
+background-image: url(allitems.png);
+  width:1300px;
+  height:400px;
+  position: absolute;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  right: 150px;
+  top:500px;
+}
+.input{
+  text-align: center;
+  background-image: url(homein.jpg);
+  font-family:monospace;
+  opacity: 0.8;
+  top: 100px;
+  height: 250px;
+  font-size: 30px;
+  position: relative;
+  line-height: 50px;
+}
+.text-box-qty{
+  height: 20px;
+  width: 100px;
+}
+.homeit{
+  width: 1550px;
+  height: 650px;
+  background-color:black;
+
+}
+.homeit1{
+  background-image: url(home20.jpg);
+height: 900px;
+width: 1000px;
+  position: relative;
+  top:70px;
+  left: 120px;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.headin{
+font-weight: lighter;
+font-family:cursive;
+color: white;
+background-color:red;
+font-size: 32px;
+padding: 12px;
+position: relative;
+opacity: 0.8;
+width: 100%;
+text-align: center;
+text-decoration:overline;
+text-emphasis-position: center;
+text-shadow: 12px;
+}
+.homeit3{
+  width: 700px;
+  height: 500px;
+  color: yellow;
+  font-size: 35px;
+position: relative;
+text-align: center;
+line-height: 100px;
+left: 700px;
+}
+.abt{
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: red;
+  color: red;
+    font-size: 20px;
+}
+.abtfood{
+   text-align: center;
+    color: white;
+    font-size: 16px;
+}
