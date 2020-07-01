@@ -5,8 +5,9 @@ A Database Management project where the data is inserted and deleted from databa
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/53393606/86210073-8f79d600-bb91-11ea-9a5c-0be2e8d8471b.png)
 
-![Screenshot (7)](https://user-images.githubusercontent.com/53393606/86209960-4cb7fe00-bb91-11ea-8796-07855f8451ed.png)
----
+![Screenshot (7)](https://user-images.githubusercontent.com/53393606/86209960-4cb7fe00-bb91-11ea-8796-07855f8451ed.png)  
+
+'''
 ## Technology:
  *MySQL: data storage*
----
+'''
