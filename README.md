@@ -8,14 +8,16 @@ A Database Management project where the data is inserted and deleted from databa
 ![Screenshot (7)](https://user-images.githubusercontent.com/53393606/86209960-4cb7fe00-bb91-11ea-8796-07855f8451ed.png)  
 
 ## Technology:
- 1.*MySQL: Data storage*
-
-```
+ 1.*MySQL: Data storage*  
+ 
+---
 ## Languages:
+```
  1.HTML:Building block of Web
  2.CSS:To style the Web pages 
  3:php:Server scripting language
 ```  
+---
 ## Tools:
 *WAMP
 *Atom
