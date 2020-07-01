@@ -1,5 +1,5 @@
 # Online-food-ordering-system #Cravin' for Calories
-A Database Management project where the data is inserted and deleted from database.This project is for single retaurant, hope this is helpful.  
+A Database Management project where the data is inserted and deleted from database.This project is for single restaurant, hope this is helpful.  
 **These are snaps of my project.**
 ![Screenshot (2)](https://user-images.githubusercontent.com/53393606/86209805-f8148300-bb90-11ea-9115-b2fe0cbccb00.png)
 
