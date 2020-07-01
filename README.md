@@ -21,7 +21,7 @@ This project is for single restaurant, hope this is helpful.
 ```  
 ---
 ## Tools:
-*WAMP
-*Atom
+1.WAMP server    
+2.Atom
 
 ---
